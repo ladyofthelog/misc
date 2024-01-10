@@ -1,0 +1,919 @@
+card_id,card_label,category_id,category_label,user_id,unique_user_id
+16,Genre,158,Tags,1,f8d3fa97-420d-42c6-949e-9dcfe09bbacf
+14,Warnings,158,Tags,1,f8d3fa97-420d-42c6-949e-9dcfe09bbacf
+17,Additional tags,158,Tags,1,f8d3fa97-420d-42c6-949e-9dcfe09bbacf
+15,Tropes,158,Tags,1,f8d3fa97-420d-42c6-949e-9dcfe09bbacf
+13,Relationship type,158,Tags,1,f8d3fa97-420d-42c6-949e-9dcfe09bbacf
+3,Pairing,158,Tags,1,f8d3fa97-420d-42c6-949e-9dcfe09bbacf
+2,Characters,158,Tags,1,f8d3fa97-420d-42c6-949e-9dcfe09bbacf
+1,Fandom,158,Tags,1,f8d3fa97-420d-42c6-949e-9dcfe09bbacf
+10,Language,159,General Info,1,f8d3fa97-420d-42c6-949e-9dcfe09bbacf
+12,Wordcount,159,General Info,1,f8d3fa97-420d-42c6-949e-9dcfe09bbacf
+6,Title,159,General Info,1,f8d3fa97-420d-42c6-949e-9dcfe09bbacf
+9,Completion status,159,General Info,1,f8d3fa97-420d-42c6-949e-9dcfe09bbacf
+4,Reviews,159,General Info,1,f8d3fa97-420d-42c6-949e-9dcfe09bbacf
+11,Audio length,159,General Info,1,f8d3fa97-420d-42c6-949e-9dcfe09bbacf
+7,Author,159,General Info,1,f8d3fa97-420d-42c6-949e-9dcfe09bbacf
+5,Summary,159,General Info,1,f8d3fa97-420d-42c6-949e-9dcfe09bbacf
+18,Content rating,159,General Info,1,f8d3fa97-420d-42c6-949e-9dcfe09bbacf
+8,Work type,159,General Info,1,f8d3fa97-420d-42c6-949e-9dcfe09bbacf
+11,Audio length,171,Metadata,2,f4134791-58e6-4f3a-9407-bb689f4a392f
+12,Wordcount,171,Metadata,2,f4134791-58e6-4f3a-9407-bb689f4a392f
+9,Completion status,171,Metadata,2,f4134791-58e6-4f3a-9407-bb689f4a392f
+18,Content rating,171,Metadata,2,f4134791-58e6-4f3a-9407-bb689f4a392f
+14,Warnings,171,Metadata,2,f4134791-58e6-4f3a-9407-bb689f4a392f
+10,Language,171,Metadata,2,f4134791-58e6-4f3a-9407-bb689f4a392f
+17,Additional tags,171,Metadata,2,f4134791-58e6-4f3a-9407-bb689f4a392f
+3,Pairing,172,Fans/Readers,2,f4134791-58e6-4f3a-9407-bb689f4a392f
+13,Relationship type,172,Fans/Readers,2,f4134791-58e6-4f3a-9407-bb689f4a392f
+4,Reviews,172,Fans/Readers,2,f4134791-58e6-4f3a-9407-bb689f4a392f
+1,Fandom,172,Fans/Readers,2,f4134791-58e6-4f3a-9407-bb689f4a392f
+8,Work type,173,Creators/Writers,2,f4134791-58e6-4f3a-9407-bb689f4a392f
+5,Summary,173,Creators/Writers,2,f4134791-58e6-4f3a-9407-bb689f4a392f
+7,Author,173,Creators/Writers,2,f4134791-58e6-4f3a-9407-bb689f4a392f
+15,Tropes,174,Stories,2,f4134791-58e6-4f3a-9407-bb689f4a392f
+2,Characters,174,Stories,2,f4134791-58e6-4f3a-9407-bb689f4a392f
+16,Genre,174,Stories,2,f4134791-58e6-4f3a-9407-bb689f4a392f
+6,Title,174,Stories,2,f4134791-58e6-4f3a-9407-bb689f4a392f
+4,Reviews,56,Miscellaneous,3,f2e3ca9a-26f2-42ea-9e74-dc27714864d9
+17,Additional tags,56,Miscellaneous,3,f2e3ca9a-26f2-42ea-9e74-dc27714864d9
+12,Wordcount,57,Organization,3,f2e3ca9a-26f2-42ea-9e74-dc27714864d9
+7,Author,57,Organization,3,f2e3ca9a-26f2-42ea-9e74-dc27714864d9
+8,Work type,57,Organization,3,f2e3ca9a-26f2-42ea-9e74-dc27714864d9
+9,Completion status,57,Organization,3,f2e3ca9a-26f2-42ea-9e74-dc27714864d9
+6,Title,57,Organization,3,f2e3ca9a-26f2-42ea-9e74-dc27714864d9
+11,Audio length,57,Organization,3,f2e3ca9a-26f2-42ea-9e74-dc27714864d9
+10,Language,57,Organization,3,f2e3ca9a-26f2-42ea-9e74-dc27714864d9
+5,Summary,57,Organization,3,f2e3ca9a-26f2-42ea-9e74-dc27714864d9
+15,Tropes,58,Tags,3,f2e3ca9a-26f2-42ea-9e74-dc27714864d9
+18,Content rating,58,Tags,3,f2e3ca9a-26f2-42ea-9e74-dc27714864d9
+13,Relationship type,58,Tags,3,f2e3ca9a-26f2-42ea-9e74-dc27714864d9
+1,Fandom,58,Tags,3,f2e3ca9a-26f2-42ea-9e74-dc27714864d9
+3,Pairing,58,Tags,3,f2e3ca9a-26f2-42ea-9e74-dc27714864d9
+16,Genre,58,Tags,3,f2e3ca9a-26f2-42ea-9e74-dc27714864d9
+2,Characters,58,Tags,3,f2e3ca9a-26f2-42ea-9e74-dc27714864d9
+14,Warnings,58,Tags,3,f2e3ca9a-26f2-42ea-9e74-dc27714864d9
+15,Tropes,142,filterable (aka brain goes SKIM),4,eec9db63-68b0-4f9d-b840-049188eaa7d6
+13,Relationship type,142,filterable (aka brain goes SKIM),4,eec9db63-68b0-4f9d-b840-049188eaa7d6
+3,Pairing,142,filterable (aka brain goes SKIM),4,eec9db63-68b0-4f9d-b840-049188eaa7d6
+16,Genre,142,filterable (aka brain goes SKIM),4,eec9db63-68b0-4f9d-b840-049188eaa7d6
+2,Characters,142,filterable (aka brain goes SKIM),4,eec9db63-68b0-4f9d-b840-049188eaa7d6
+17,Additional tags,142,filterable (aka brain goes SKIM),4,eec9db63-68b0-4f9d-b840-049188eaa7d6
+14,Warnings,143,important,4,eec9db63-68b0-4f9d-b840-049188eaa7d6
+12,Wordcount,143,important,4,eec9db63-68b0-4f9d-b840-049188eaa7d6
+6,Title,143,important,4,eec9db63-68b0-4f9d-b840-049188eaa7d6
+5,Summary,143,important,4,eec9db63-68b0-4f9d-b840-049188eaa7d6
+4,Reviews,143,important,4,eec9db63-68b0-4f9d-b840-049188eaa7d6
+1,Fandom,143,important,4,eec9db63-68b0-4f9d-b840-049188eaa7d6
+7,Author,143,important,4,eec9db63-68b0-4f9d-b840-049188eaa7d6
+11,Audio length,143,important,4,eec9db63-68b0-4f9d-b840-049188eaa7d6
+8,Work type,144,crucial,4,eec9db63-68b0-4f9d-b840-049188eaa7d6
+10,Language,144,crucial,4,eec9db63-68b0-4f9d-b840-049188eaa7d6
+18,Content rating,144,crucial,4,eec9db63-68b0-4f9d-b840-049188eaa7d6
+9,Completion status,144,crucial,4,eec9db63-68b0-4f9d-b840-049188eaa7d6
+4,Reviews,124,community/discussion/comments/bookmarks/??? what is a review and what are interactions on the site,5,eeb5db8e-0c57-466d-a466-50f007eeb987
+7,Author,125,work id,5,eeb5db8e-0c57-466d-a466-50f007eeb987
+6,Title,125,work id,5,eeb5db8e-0c57-466d-a466-50f007eeb987
+9,Completion status,126,format info,5,eeb5db8e-0c57-466d-a466-50f007eeb987
+10,Language,126,format info,5,eeb5db8e-0c57-466d-a466-50f007eeb987
+12,Wordcount,126,format info,5,eeb5db8e-0c57-466d-a466-50f007eeb987
+8,Work type,126,format info,5,eeb5db8e-0c57-466d-a466-50f007eeb987
+11,Audio length,126,format info,5,eeb5db8e-0c57-466d-a466-50f007eeb987
+13,Relationship type,127,contents overview,5,eeb5db8e-0c57-466d-a466-50f007eeb987
+14,Warnings,127,contents overview,5,eeb5db8e-0c57-466d-a466-50f007eeb987
+17,Additional tags,127,contents overview,5,eeb5db8e-0c57-466d-a466-50f007eeb987
+16,Genre,127,contents overview,5,eeb5db8e-0c57-466d-a466-50f007eeb987
+3,Pairing,127,contents overview,5,eeb5db8e-0c57-466d-a466-50f007eeb987
+1,Fandom,127,contents overview,5,eeb5db8e-0c57-466d-a466-50f007eeb987
+15,Tropes,127,contents overview,5,eeb5db8e-0c57-466d-a466-50f007eeb987
+5,Summary,127,contents overview,5,eeb5db8e-0c57-466d-a466-50f007eeb987
+2,Characters,127,contents overview,5,eeb5db8e-0c57-466d-a466-50f007eeb987
+18,Content rating,127,contents overview,5,eeb5db8e-0c57-466d-a466-50f007eeb987
+7,Author,131,Author,6,e29d2a7b-b8d9-471c-9942-8df5f9c0802f
+9,Completion status,132,Vital Stats(??),6,e29d2a7b-b8d9-471c-9942-8df5f9c0802f
+10,Language,132,Vital Stats(??),6,e29d2a7b-b8d9-471c-9942-8df5f9c0802f
+14,Warnings,133,Type,6,e29d2a7b-b8d9-471c-9942-8df5f9c0802f
+18,Content rating,133,Type,6,e29d2a7b-b8d9-471c-9942-8df5f9c0802f
+13,Relationship type,133,Type,6,e29d2a7b-b8d9-471c-9942-8df5f9c0802f
+16,Genre,133,Type,6,e29d2a7b-b8d9-471c-9942-8df5f9c0802f
+8,Work type,133,Type,6,e29d2a7b-b8d9-471c-9942-8df5f9c0802f
+4,Reviews,134,Feedback,6,e29d2a7b-b8d9-471c-9942-8df5f9c0802f
+12,Wordcount,135,Length,6,e29d2a7b-b8d9-471c-9942-8df5f9c0802f
+11,Audio length,135,Length,6,e29d2a7b-b8d9-471c-9942-8df5f9c0802f
+15,Tropes,136,Contents,6,e29d2a7b-b8d9-471c-9942-8df5f9c0802f
+17,Additional tags,136,Contents,6,e29d2a7b-b8d9-471c-9942-8df5f9c0802f
+3,Pairing,136,Contents,6,e29d2a7b-b8d9-471c-9942-8df5f9c0802f
+2,Characters,136,Contents,6,e29d2a7b-b8d9-471c-9942-8df5f9c0802f
+1,Fandom,136,Contents,6,e29d2a7b-b8d9-471c-9942-8df5f9c0802f
+5,Summary,136,Contents,6,e29d2a7b-b8d9-471c-9942-8df5f9c0802f
+6,Title,136,Contents,6,e29d2a7b-b8d9-471c-9942-8df5f9c0802f
+4,Reviews,154,Header,7,e244167b-5963-4d09-8f5e-87dc4ee26207
+9,Completion status,154,Header,7,e244167b-5963-4d09-8f5e-87dc4ee26207
+11,Audio length,154,Header,7,e244167b-5963-4d09-8f5e-87dc4ee26207
+12,Wordcount,154,Header,7,e244167b-5963-4d09-8f5e-87dc4ee26207
+7,Author,154,Header,7,e244167b-5963-4d09-8f5e-87dc4ee26207
+17,Additional tags,154,Header,7,e244167b-5963-4d09-8f5e-87dc4ee26207
+14,Warnings,154,Header,7,e244167b-5963-4d09-8f5e-87dc4ee26207
+15,Tropes,154,Header,7,e244167b-5963-4d09-8f5e-87dc4ee26207
+16,Genre,154,Header,7,e244167b-5963-4d09-8f5e-87dc4ee26207
+5,Summary,154,Header,7,e244167b-5963-4d09-8f5e-87dc4ee26207
+13,Relationship type,154,Header,7,e244167b-5963-4d09-8f5e-87dc4ee26207
+3,Pairing,154,Header,7,e244167b-5963-4d09-8f5e-87dc4ee26207
+2,Characters,154,Header,7,e244167b-5963-4d09-8f5e-87dc4ee26207
+18,Content rating,154,Header,7,e244167b-5963-4d09-8f5e-87dc4ee26207
+6,Title,154,Header,7,e244167b-5963-4d09-8f5e-87dc4ee26207
+10,Language,154,Header,7,e244167b-5963-4d09-8f5e-87dc4ee26207
+8,Work type,154,Header,7,e244167b-5963-4d09-8f5e-87dc4ee26207
+1,Fandom,154,Header,7,e244167b-5963-4d09-8f5e-87dc4ee26207
+4,Reviews,178,things the site knows and I don't have to enter,8,e1dafe99-21b2-48e2-aaa2-648a588c51be
+9,Completion status,178,things the site knows and I don't have to enter,8,e1dafe99-21b2-48e2-aaa2-648a588c51be
+11,Audio length,178,things the site knows and I don't have to enter,8,e1dafe99-21b2-48e2-aaa2-648a588c51be
+12,Wordcount,178,things the site knows and I don't have to enter,8,e1dafe99-21b2-48e2-aaa2-648a588c51be
+16,Genre,179,shelf,8,e1dafe99-21b2-48e2-aaa2-648a588c51be
+15,Tropes,179,shelf,8,e1dafe99-21b2-48e2-aaa2-648a588c51be
+17,Additional tags,179,shelf,8,e1dafe99-21b2-48e2-aaa2-648a588c51be
+8,Work type,179,shelf,8,e1dafe99-21b2-48e2-aaa2-648a588c51be
+18,Content rating,180,!,8,e1dafe99-21b2-48e2-aaa2-648a588c51be
+14,Warnings,180,!,8,e1dafe99-21b2-48e2-aaa2-648a588c51be
+3,Pairing,181,who,8,e1dafe99-21b2-48e2-aaa2-648a588c51be
+13,Relationship type,181,who,8,e1dafe99-21b2-48e2-aaa2-648a588c51be
+2,Characters,181,who,8,e1dafe99-21b2-48e2-aaa2-648a588c51be
+7,Author,182,the basics,8,e1dafe99-21b2-48e2-aaa2-648a588c51be
+6,Title,182,the basics,8,e1dafe99-21b2-48e2-aaa2-648a588c51be
+5,Summary,182,the basics,8,e1dafe99-21b2-48e2-aaa2-648a588c51be
+1,Fandom,182,the basics,8,e1dafe99-21b2-48e2-aaa2-648a588c51be
+10,Language,182,the basics,8,e1dafe99-21b2-48e2-aaa2-648a588c51be
+5,Summary,145,Content info,9,de7eb2e1-3a48-4d0d-9e6e-23302cb9ae66
+15,Tropes,145,Content info,9,de7eb2e1-3a48-4d0d-9e6e-23302cb9ae66
+16,Genre,145,Content info,9,de7eb2e1-3a48-4d0d-9e6e-23302cb9ae66
+13,Relationship type,145,Content info,9,de7eb2e1-3a48-4d0d-9e6e-23302cb9ae66
+14,Warnings,145,Content info,9,de7eb2e1-3a48-4d0d-9e6e-23302cb9ae66
+18,Content rating,145,Content info,9,de7eb2e1-3a48-4d0d-9e6e-23302cb9ae66
+17,Additional tags,145,Content info,9,de7eb2e1-3a48-4d0d-9e6e-23302cb9ae66
+12,Wordcount,146,Stats,9,de7eb2e1-3a48-4d0d-9e6e-23302cb9ae66
+11,Audio length,146,Stats,9,de7eb2e1-3a48-4d0d-9e6e-23302cb9ae66
+4,Reviews,146,Stats,9,de7eb2e1-3a48-4d0d-9e6e-23302cb9ae66
+9,Completion status,146,Stats,9,de7eb2e1-3a48-4d0d-9e6e-23302cb9ae66
+1,Fandom,147,Fandom info,9,de7eb2e1-3a48-4d0d-9e6e-23302cb9ae66
+2,Characters,147,Fandom info,9,de7eb2e1-3a48-4d0d-9e6e-23302cb9ae66
+3,Pairing,147,Fandom info,9,de7eb2e1-3a48-4d0d-9e6e-23302cb9ae66
+6,Title,148,Basic info,9,de7eb2e1-3a48-4d0d-9e6e-23302cb9ae66
+10,Language,148,Basic info,9,de7eb2e1-3a48-4d0d-9e6e-23302cb9ae66
+8,Work type,148,Basic info,9,de7eb2e1-3a48-4d0d-9e6e-23302cb9ae66
+7,Author,148,Basic info,9,de7eb2e1-3a48-4d0d-9e6e-23302cb9ae66
+4,Reviews,38,Filtering tools,10,dc852f28-a3bb-40f6-82eb-addde43f89ad
+18,Content rating,38,Filtering tools,10,dc852f28-a3bb-40f6-82eb-addde43f89ad
+14,Warnings,38,Filtering tools,10,dc852f28-a3bb-40f6-82eb-addde43f89ad
+10,Language,39,Bibliographic data,10,dc852f28-a3bb-40f6-82eb-addde43f89ad
+8,Work type,39,Bibliographic data,10,dc852f28-a3bb-40f6-82eb-addde43f89ad
+7,Author,39,Bibliographic data,10,dc852f28-a3bb-40f6-82eb-addde43f89ad
+6,Title,39,Bibliographic data,10,dc852f28-a3bb-40f6-82eb-addde43f89ad
+9,Completion status,40,Length,10,dc852f28-a3bb-40f6-82eb-addde43f89ad
+11,Audio length,40,Length,10,dc852f28-a3bb-40f6-82eb-addde43f89ad
+12,Wordcount,40,Length,10,dc852f28-a3bb-40f6-82eb-addde43f89ad
+16,Genre,41,Story Description,10,dc852f28-a3bb-40f6-82eb-addde43f89ad
+15,Tropes,41,Story Description,10,dc852f28-a3bb-40f6-82eb-addde43f89ad
+17,Additional tags,41,Story Description,10,dc852f28-a3bb-40f6-82eb-addde43f89ad
+5,Summary,41,Story Description,10,dc852f28-a3bb-40f6-82eb-addde43f89ad
+1,Fandom,41,Story Description,10,dc852f28-a3bb-40f6-82eb-addde43f89ad
+13,Relationship type,41,Story Description,10,dc852f28-a3bb-40f6-82eb-addde43f89ad
+3,Pairing,41,Story Description,10,dc852f28-a3bb-40f6-82eb-addde43f89ad
+2,Characters,41,Story Description,10,dc852f28-a3bb-40f6-82eb-addde43f89ad
+11,Audio length,42,Multimedia Work,11,dc492e97-d2a1-4048-8a93-8de403c6b78e
+12,Wordcount,43,Written Work,11,dc492e97-d2a1-4048-8a93-8de403c6b78e
+7,Author,43,Written Work,11,dc492e97-d2a1-4048-8a93-8de403c6b78e
+4,Reviews,44,Fanwork,11,dc492e97-d2a1-4048-8a93-8de403c6b78e
+15,Tropes,44,Fanwork,11,dc492e97-d2a1-4048-8a93-8de403c6b78e
+9,Completion status,44,Fanwork,11,dc492e97-d2a1-4048-8a93-8de403c6b78e
+10,Language,44,Fanwork,11,dc492e97-d2a1-4048-8a93-8de403c6b78e
+17,Additional tags,44,Fanwork,11,dc492e97-d2a1-4048-8a93-8de403c6b78e
+2,Characters,44,Fanwork,11,dc492e97-d2a1-4048-8a93-8de403c6b78e
+16,Genre,44,Fanwork,11,dc492e97-d2a1-4048-8a93-8de403c6b78e
+13,Relationship type,44,Fanwork,11,dc492e97-d2a1-4048-8a93-8de403c6b78e
+3,Pairing,44,Fanwork,11,dc492e97-d2a1-4048-8a93-8de403c6b78e
+18,Content rating,44,Fanwork,11,dc492e97-d2a1-4048-8a93-8de403c6b78e
+14,Warnings,44,Fanwork,11,dc492e97-d2a1-4048-8a93-8de403c6b78e
+5,Summary,44,Fanwork,11,dc492e97-d2a1-4048-8a93-8de403c6b78e
+6,Title,44,Fanwork,11,dc492e97-d2a1-4048-8a93-8de403c6b78e
+8,Work type,44,Fanwork,11,dc492e97-d2a1-4048-8a93-8de403c6b78e
+1,Fandom,44,Fanwork,11,dc492e97-d2a1-4048-8a93-8de403c6b78e
+10,Language,164,Metadata,12,d635badb-130f-4044-95d7-57f8bc584033
+11,Audio length,164,Metadata,12,d635badb-130f-4044-95d7-57f8bc584033
+7,Author,164,Metadata,12,d635badb-130f-4044-95d7-57f8bc584033
+5,Summary,164,Metadata,12,d635badb-130f-4044-95d7-57f8bc584033
+4,Reviews,164,Metadata,12,d635badb-130f-4044-95d7-57f8bc584033
+6,Title,164,Metadata,12,d635badb-130f-4044-95d7-57f8bc584033
+12,Wordcount,164,Metadata,12,d635badb-130f-4044-95d7-57f8bc584033
+8,Work type,164,Metadata,12,d635badb-130f-4044-95d7-57f8bc584033
+9,Completion status,164,Metadata,12,d635badb-130f-4044-95d7-57f8bc584033
+18,Content rating,165,Tags,12,d635badb-130f-4044-95d7-57f8bc584033
+15,Tropes,165,Tags,12,d635badb-130f-4044-95d7-57f8bc584033
+16,Genre,165,Tags,12,d635badb-130f-4044-95d7-57f8bc584033
+17,Additional tags,165,Tags,12,d635badb-130f-4044-95d7-57f8bc584033
+2,Characters,165,Tags,12,d635badb-130f-4044-95d7-57f8bc584033
+1,Fandom,165,Tags,12,d635badb-130f-4044-95d7-57f8bc584033
+3,Pairing,165,Tags,12,d635badb-130f-4044-95d7-57f8bc584033
+13,Relationship type,165,Tags,12,d635badb-130f-4044-95d7-57f8bc584033
+14,Warnings,165,Tags,12,d635badb-130f-4044-95d7-57f8bc584033
+3,Pairing,155,Community,13,d56d91b3-5d90-4cc5-b5d6-d7e4c499093e
+2,Characters,155,Community,13,d56d91b3-5d90-4cc5-b5d6-d7e4c499093e
+1,Fandom,155,Community,13,d56d91b3-5d90-4cc5-b5d6-d7e4c499093e
+4,Reviews,156,General,13,d56d91b3-5d90-4cc5-b5d6-d7e4c499093e
+5,Summary,156,General,13,d56d91b3-5d90-4cc5-b5d6-d7e4c499093e
+9,Completion status,156,General,13,d56d91b3-5d90-4cc5-b5d6-d7e4c499093e
+11,Audio length,156,General,13,d56d91b3-5d90-4cc5-b5d6-d7e4c499093e
+12,Wordcount,156,General,13,d56d91b3-5d90-4cc5-b5d6-d7e4c499093e
+10,Language,156,General,13,d56d91b3-5d90-4cc5-b5d6-d7e4c499093e
+18,Content rating,156,General,13,d56d91b3-5d90-4cc5-b5d6-d7e4c499093e
+7,Author,156,General,13,d56d91b3-5d90-4cc5-b5d6-d7e4c499093e
+6,Title,156,General,13,d56d91b3-5d90-4cc5-b5d6-d7e4c499093e
+17,Additional tags,157,Specific,13,d56d91b3-5d90-4cc5-b5d6-d7e4c499093e
+13,Relationship type,157,Specific,13,d56d91b3-5d90-4cc5-b5d6-d7e4c499093e
+15,Tropes,157,Specific,13,d56d91b3-5d90-4cc5-b5d6-d7e4c499093e
+14,Warnings,157,Specific,13,d56d91b3-5d90-4cc5-b5d6-d7e4c499093e
+16,Genre,157,Specific,13,d56d91b3-5d90-4cc5-b5d6-d7e4c499093e
+8,Work type,157,Specific,13,d56d91b3-5d90-4cc5-b5d6-d7e4c499093e
+18,Content rating,52,Labels about the content of the work,14,d3f2dcfe-f601-4c9c-8d08-e5b5b462d5d5
+14,Warnings,52,Labels about the content of the work,14,d3f2dcfe-f601-4c9c-8d08-e5b5b462d5d5
+15,Tropes,52,Labels about the content of the work,14,d3f2dcfe-f601-4c9c-8d08-e5b5b462d5d5
+2,Characters,52,Labels about the content of the work,14,d3f2dcfe-f601-4c9c-8d08-e5b5b462d5d5
+3,Pairing,52,Labels about the content of the work,14,d3f2dcfe-f601-4c9c-8d08-e5b5b462d5d5
+16,Genre,52,Labels about the content of the work,14,d3f2dcfe-f601-4c9c-8d08-e5b5b462d5d5
+13,Relationship type,52,Labels about the content of the work,14,d3f2dcfe-f601-4c9c-8d08-e5b5b462d5d5
+12,Wordcount,53,Categories useful for a subset of work types,14,d3f2dcfe-f601-4c9c-8d08-e5b5b462d5d5
+11,Audio length,53,Categories useful for a subset of work types,14,d3f2dcfe-f601-4c9c-8d08-e5b5b462d5d5
+10,Language,54,Labels about the work itself,14,d3f2dcfe-f601-4c9c-8d08-e5b5b462d5d5
+9,Completion status,54,Labels about the work itself,14,d3f2dcfe-f601-4c9c-8d08-e5b5b462d5d5
+1,Fandom,54,Labels about the work itself,14,d3f2dcfe-f601-4c9c-8d08-e5b5b462d5d5
+4,Reviews,54,Labels about the work itself,14,d3f2dcfe-f601-4c9c-8d08-e5b5b462d5d5
+7,Author,54,Labels about the work itself,14,d3f2dcfe-f601-4c9c-8d08-e5b5b462d5d5
+8,Work type,54,Labels about the work itself,14,d3f2dcfe-f601-4c9c-8d08-e5b5b462d5d5
+17,Additional tags,55,"Things Which Are Useless, Organizationally",14,d3f2dcfe-f601-4c9c-8d08-e5b5b462d5d5
+6,Title,55,"Things Which Are Useless, Organizationally",14,d3f2dcfe-f601-4c9c-8d08-e5b5b462d5d5
+5,Summary,55,"Things Which Are Useless, Organizationally",14,d3f2dcfe-f601-4c9c-8d08-e5b5b462d5d5
+3,Pairing,6,Story Content,15,c77531b1-59b9-49a0-963d-9e7f182d306e
+13,Relationship type,6,Story Content,15,c77531b1-59b9-49a0-963d-9e7f182d306e
+15,Tropes,6,Story Content,15,c77531b1-59b9-49a0-963d-9e7f182d306e
+1,Fandom,6,Story Content,15,c77531b1-59b9-49a0-963d-9e7f182d306e
+9,Completion status,7,These Descibe the Length of the work,15,c77531b1-59b9-49a0-963d-9e7f182d306e
+12,Wordcount,7,These Descibe the Length of the work,15,c77531b1-59b9-49a0-963d-9e7f182d306e
+11,Audio length,7,These Descibe the Length of the work,15,c77531b1-59b9-49a0-963d-9e7f182d306e
+8,Work type,8,Where its sorted in the library,15,c77531b1-59b9-49a0-963d-9e7f182d306e
+16,Genre,8,Where its sorted in the library,15,c77531b1-59b9-49a0-963d-9e7f182d306e
+18,Content rating,8,Where its sorted in the library,15,c77531b1-59b9-49a0-963d-9e7f182d306e
+10,Language,8,Where its sorted in the library,15,c77531b1-59b9-49a0-963d-9e7f182d306e
+7,Author,9,Front Cover,15,c77531b1-59b9-49a0-963d-9e7f182d306e
+6,Title,9,Front Cover,15,c77531b1-59b9-49a0-963d-9e7f182d306e
+17,Additional tags,10,Back Cover Of a Book,15,c77531b1-59b9-49a0-963d-9e7f182d306e
+2,Characters,10,Back Cover Of a Book,15,c77531b1-59b9-49a0-963d-9e7f182d306e
+5,Summary,10,Back Cover Of a Book,15,c77531b1-59b9-49a0-963d-9e7f182d306e
+4,Reviews,10,Back Cover Of a Book,15,c77531b1-59b9-49a0-963d-9e7f182d306e
+14,Warnings,10,Back Cover Of a Book,15,c77531b1-59b9-49a0-963d-9e7f182d306e
+13,Relationship type,73,metadata,16,b242b7bf-f7c6-4045-9986-8dfd4ccc8eda
+4,Reviews,73,metadata,16,b242b7bf-f7c6-4045-9986-8dfd4ccc8eda
+18,Content rating,73,metadata,16,b242b7bf-f7c6-4045-9986-8dfd4ccc8eda
+10,Language,73,metadata,16,b242b7bf-f7c6-4045-9986-8dfd4ccc8eda
+8,Work type,73,metadata,16,b242b7bf-f7c6-4045-9986-8dfd4ccc8eda
+6,Title,73,metadata,16,b242b7bf-f7c6-4045-9986-8dfd4ccc8eda
+7,Author,73,metadata,16,b242b7bf-f7c6-4045-9986-8dfd4ccc8eda
+9,Completion status,73,metadata,16,b242b7bf-f7c6-4045-9986-8dfd4ccc8eda
+16,Genre,73,metadata,16,b242b7bf-f7c6-4045-9986-8dfd4ccc8eda
+3,Pairing,74,about,16,b242b7bf-f7c6-4045-9986-8dfd4ccc8eda
+2,Characters,74,about,16,b242b7bf-f7c6-4045-9986-8dfd4ccc8eda
+17,Additional tags,74,about,16,b242b7bf-f7c6-4045-9986-8dfd4ccc8eda
+1,Fandom,74,about,16,b242b7bf-f7c6-4045-9986-8dfd4ccc8eda
+5,Summary,74,about,16,b242b7bf-f7c6-4045-9986-8dfd4ccc8eda
+14,Warnings,74,about,16,b242b7bf-f7c6-4045-9986-8dfd4ccc8eda
+15,Tropes,74,about,16,b242b7bf-f7c6-4045-9986-8dfd4ccc8eda
+12,Wordcount,75,statistics,16,b242b7bf-f7c6-4045-9986-8dfd4ccc8eda
+11,Audio length,75,statistics,16,b242b7bf-f7c6-4045-9986-8dfd4ccc8eda
+15,Tropes,109,Details,17,a9a90776-de78-4511-b7fe-69b5540ee153
+16,Genre,109,Details,17,a9a90776-de78-4511-b7fe-69b5540ee153
+17,Additional tags,109,Details,17,a9a90776-de78-4511-b7fe-69b5540ee153
+5,Summary,109,Details,17,a9a90776-de78-4511-b7fe-69b5540ee153
+2,Characters,109,Details,17,a9a90776-de78-4511-b7fe-69b5540ee153
+13,Relationship type,109,Details,17,a9a90776-de78-4511-b7fe-69b5540ee153
+4,Reviews,110,About,17,a9a90776-de78-4511-b7fe-69b5540ee153
+11,Audio length,110,About,17,a9a90776-de78-4511-b7fe-69b5540ee153
+9,Completion status,110,About,17,a9a90776-de78-4511-b7fe-69b5540ee153
+12,Wordcount,110,About,17,a9a90776-de78-4511-b7fe-69b5540ee153
+18,Content rating,110,About,17,a9a90776-de78-4511-b7fe-69b5540ee153
+14,Warnings,110,About,17,a9a90776-de78-4511-b7fe-69b5540ee153
+10,Language,111,Title,17,a9a90776-de78-4511-b7fe-69b5540ee153
+8,Work type,111,Title,17,a9a90776-de78-4511-b7fe-69b5540ee153
+3,Pairing,111,Title,17,a9a90776-de78-4511-b7fe-69b5540ee153
+1,Fandom,111,Title,17,a9a90776-de78-4511-b7fe-69b5540ee153
+7,Author,111,Title,17,a9a90776-de78-4511-b7fe-69b5540ee153
+6,Title,111,Title,17,a9a90776-de78-4511-b7fe-69b5540ee153
+4,Reviews,200,cat 5,18,a3b88266-1c3e-4be2-aed5-c99512c15f06
+5,Summary,201,cat 4,18,a3b88266-1c3e-4be2-aed5-c99512c15f06
+7,Author,201,cat 4,18,a3b88266-1c3e-4be2-aed5-c99512c15f06
+6,Title,201,cat 4,18,a3b88266-1c3e-4be2-aed5-c99512c15f06
+18,Content rating,202,cat 3,18,a3b88266-1c3e-4be2-aed5-c99512c15f06
+8,Work type,202,cat 3,18,a3b88266-1c3e-4be2-aed5-c99512c15f06
+14,Warnings,202,cat 3,18,a3b88266-1c3e-4be2-aed5-c99512c15f06
+11,Audio length,203,cat 2,18,a3b88266-1c3e-4be2-aed5-c99512c15f06
+10,Language,203,cat 2,18,a3b88266-1c3e-4be2-aed5-c99512c15f06
+12,Wordcount,203,cat 2,18,a3b88266-1c3e-4be2-aed5-c99512c15f06
+9,Completion status,203,cat 2,18,a3b88266-1c3e-4be2-aed5-c99512c15f06
+1,Fandom,204,cat 1,18,a3b88266-1c3e-4be2-aed5-c99512c15f06
+3,Pairing,204,cat 1,18,a3b88266-1c3e-4be2-aed5-c99512c15f06
+2,Characters,204,cat 1,18,a3b88266-1c3e-4be2-aed5-c99512c15f06
+17,Additional tags,204,cat 1,18,a3b88266-1c3e-4be2-aed5-c99512c15f06
+13,Relationship type,204,cat 1,18,a3b88266-1c3e-4be2-aed5-c99512c15f06
+16,Genre,204,cat 1,18,a3b88266-1c3e-4be2-aed5-c99512c15f06
+15,Tropes,204,cat 1,18,a3b88266-1c3e-4be2-aed5-c99512c15f06
+4,Reviews,11,Work-specific descriptions,19,a1116fdc-0ad9-4ff2-ab49-d81594ba6a50
+5,Summary,11,Work-specific descriptions,19,a1116fdc-0ad9-4ff2-ab49-d81594ba6a50
+7,Author,11,Work-specific descriptions,19,a1116fdc-0ad9-4ff2-ab49-d81594ba6a50
+6,Title,11,Work-specific descriptions,19,a1116fdc-0ad9-4ff2-ab49-d81594ba6a50
+11,Audio length,12,Work-specific metadata,19,a1116fdc-0ad9-4ff2-ab49-d81594ba6a50
+10,Language,12,Work-specific metadata,19,a1116fdc-0ad9-4ff2-ab49-d81594ba6a50
+9,Completion status,12,Work-specific metadata,19,a1116fdc-0ad9-4ff2-ab49-d81594ba6a50
+8,Work type,12,Work-specific metadata,19,a1116fdc-0ad9-4ff2-ab49-d81594ba6a50
+12,Wordcount,12,Work-specific metadata,19,a1116fdc-0ad9-4ff2-ab49-d81594ba6a50
+3,Pairing,13,Fandom-specific content information,19,a1116fdc-0ad9-4ff2-ab49-d81594ba6a50
+2,Characters,13,Fandom-specific content information,19,a1116fdc-0ad9-4ff2-ab49-d81594ba6a50
+1,Fandom,13,Fandom-specific content information,19,a1116fdc-0ad9-4ff2-ab49-d81594ba6a50
+17,Additional tags,14,General content information,19,a1116fdc-0ad9-4ff2-ab49-d81594ba6a50
+15,Tropes,14,General content information,19,a1116fdc-0ad9-4ff2-ab49-d81594ba6a50
+16,Genre,14,General content information,19,a1116fdc-0ad9-4ff2-ab49-d81594ba6a50
+13,Relationship type,14,General content information,19,a1116fdc-0ad9-4ff2-ab49-d81594ba6a50
+18,Content rating,14,General content information,19,a1116fdc-0ad9-4ff2-ab49-d81594ba6a50
+14,Warnings,14,General content information,19,a1116fdc-0ad9-4ff2-ab49-d81594ba6a50
+4,Reviews,149,reviews,20,a0d4ea1b-0d18-47cc-8b60-11bc103f201d
+14,Warnings,150,heads up,20,a0d4ea1b-0d18-47cc-8b60-11bc103f201d
+18,Content rating,150,heads up,20,a0d4ea1b-0d18-47cc-8b60-11bc103f201d
+17,Additional tags,151,content,20,a0d4ea1b-0d18-47cc-8b60-11bc103f201d
+15,Tropes,151,content,20,a0d4ea1b-0d18-47cc-8b60-11bc103f201d
+13,Relationship type,151,content,20,a0d4ea1b-0d18-47cc-8b60-11bc103f201d
+2,Characters,151,content,20,a0d4ea1b-0d18-47cc-8b60-11bc103f201d
+16,Genre,151,content,20,a0d4ea1b-0d18-47cc-8b60-11bc103f201d
+3,Pairing,151,content,20,a0d4ea1b-0d18-47cc-8b60-11bc103f201d
+11,Audio length,152,specs,20,a0d4ea1b-0d18-47cc-8b60-11bc103f201d
+12,Wordcount,152,specs,20,a0d4ea1b-0d18-47cc-8b60-11bc103f201d
+8,Work type,152,specs,20,a0d4ea1b-0d18-47cc-8b60-11bc103f201d
+10,Language,152,specs,20,a0d4ea1b-0d18-47cc-8b60-11bc103f201d
+9,Completion status,152,specs,20,a0d4ea1b-0d18-47cc-8b60-11bc103f201d
+5,Summary,153,title page,20,a0d4ea1b-0d18-47cc-8b60-11bc103f201d
+7,Author,153,title page,20,a0d4ea1b-0d18-47cc-8b60-11bc103f201d
+6,Title,153,title page,20,a0d4ea1b-0d18-47cc-8b60-11bc103f201d
+1,Fandom,153,title page,20,a0d4ea1b-0d18-47cc-8b60-11bc103f201d
+13,Relationship type,59,archive data,21,9b87b468-b176-441b-86e3-039a0d1a4c20
+4,Reviews,59,archive data,21,9b87b468-b176-441b-86e3-039a0d1a4c20
+14,Warnings,59,archive data,21,9b87b468-b176-441b-86e3-039a0d1a4c20
+18,Content rating,59,archive data,21,9b87b468-b176-441b-86e3-039a0d1a4c20
+7,Author,60,author's notes,21,9b87b468-b176-441b-86e3-039a0d1a4c20
+5,Summary,60,author's notes,21,9b87b468-b176-441b-86e3-039a0d1a4c20
+6,Title,60,author's notes,21,9b87b468-b176-441b-86e3-039a0d1a4c20
+1,Fandom,60,author's notes,21,9b87b468-b176-441b-86e3-039a0d1a4c20
+10,Language,61,stats,21,9b87b468-b176-441b-86e3-039a0d1a4c20
+12,Wordcount,61,stats,21,9b87b468-b176-441b-86e3-039a0d1a4c20
+11,Audio length,61,stats,21,9b87b468-b176-441b-86e3-039a0d1a4c20
+8,Work type,61,stats,21,9b87b468-b176-441b-86e3-039a0d1a4c20
+9,Completion status,61,stats,21,9b87b468-b176-441b-86e3-039a0d1a4c20
+2,Characters,62,sorting/finding,21,9b87b468-b176-441b-86e3-039a0d1a4c20
+3,Pairing,62,sorting/finding,21,9b87b468-b176-441b-86e3-039a0d1a4c20
+16,Genre,62,sorting/finding,21,9b87b468-b176-441b-86e3-039a0d1a4c20
+15,Tropes,62,sorting/finding,21,9b87b468-b176-441b-86e3-039a0d1a4c20
+17,Additional tags,62,sorting/finding,21,9b87b468-b176-441b-86e3-039a0d1a4c20
+16,Genre,193,author given information,22,981a8426-cebf-47e6-8a16-c8c1fa4ea00c
+11,Audio length,193,author given information,22,981a8426-cebf-47e6-8a16-c8c1fa4ea00c
+8,Work type,193,author given information,22,981a8426-cebf-47e6-8a16-c8c1fa4ea00c
+5,Summary,193,author given information,22,981a8426-cebf-47e6-8a16-c8c1fa4ea00c
+7,Author,193,author given information,22,981a8426-cebf-47e6-8a16-c8c1fa4ea00c
+6,Title,193,author given information,22,981a8426-cebf-47e6-8a16-c8c1fa4ea00c
+14,Warnings,194,misc??,22,981a8426-cebf-47e6-8a16-c8c1fa4ea00c
+4,Reviews,194,misc??,22,981a8426-cebf-47e6-8a16-c8c1fa4ea00c
+12,Wordcount,194,misc??,22,981a8426-cebf-47e6-8a16-c8c1fa4ea00c
+9,Completion status,195,"like, information about content of work",22,981a8426-cebf-47e6-8a16-c8c1fa4ea00c
+10,Language,195,"like, information about content of work",22,981a8426-cebf-47e6-8a16-c8c1fa4ea00c
+17,Additional tags,195,"like, information about content of work",22,981a8426-cebf-47e6-8a16-c8c1fa4ea00c
+15,Tropes,195,"like, information about content of work",22,981a8426-cebf-47e6-8a16-c8c1fa4ea00c
+3,Pairing,195,"like, information about content of work",22,981a8426-cebf-47e6-8a16-c8c1fa4ea00c
+1,Fandom,195,"like, information about content of work",22,981a8426-cebf-47e6-8a16-c8c1fa4ea00c
+2,Characters,195,"like, information about content of work",22,981a8426-cebf-47e6-8a16-c8c1fa4ea00c
+13,Relationship type,195,"like, information about content of work",22,981a8426-cebf-47e6-8a16-c8c1fa4ea00c
+18,Content rating,195,"like, information about content of work",22,981a8426-cebf-47e6-8a16-c8c1fa4ea00c
+4,Reviews,115,Interactions,23,913b4010-2de5-466a-8b4b-84ddf72013c0
+5,Summary,116,Work information,23,913b4010-2de5-466a-8b4b-84ddf72013c0
+2,Characters,116,Work information,23,913b4010-2de5-466a-8b4b-84ddf72013c0
+3,Pairing,116,Work information,23,913b4010-2de5-466a-8b4b-84ddf72013c0
+1,Fandom,116,Work information,23,913b4010-2de5-466a-8b4b-84ddf72013c0
+7,Author,116,Work information,23,913b4010-2de5-466a-8b4b-84ddf72013c0
+8,Work type,116,Work information,23,913b4010-2de5-466a-8b4b-84ddf72013c0
+6,Title,116,Work information,23,913b4010-2de5-466a-8b4b-84ddf72013c0
+17,Additional tags,117,Additional details,23,913b4010-2de5-466a-8b4b-84ddf72013c0
+15,Tropes,117,Additional details,23,913b4010-2de5-466a-8b4b-84ddf72013c0
+14,Warnings,117,Additional details,23,913b4010-2de5-466a-8b4b-84ddf72013c0
+18,Content rating,117,Additional details,23,913b4010-2de5-466a-8b4b-84ddf72013c0
+13,Relationship type,117,Additional details,23,913b4010-2de5-466a-8b4b-84ddf72013c0
+16,Genre,117,Additional details,23,913b4010-2de5-466a-8b4b-84ddf72013c0
+9,Completion status,118,Work stats,23,913b4010-2de5-466a-8b4b-84ddf72013c0
+10,Language,118,Work stats,23,913b4010-2de5-466a-8b4b-84ddf72013c0
+11,Audio length,118,Work stats,23,913b4010-2de5-466a-8b4b-84ddf72013c0
+12,Wordcount,118,Work stats,23,913b4010-2de5-466a-8b4b-84ddf72013c0
+4,Reviews,68,Reader Info,24,8dc05dce-b707-4d1b-90d0-298769f339ff
+7,Author,69,Info,24,8dc05dce-b707-4d1b-90d0-298769f339ff
+11,Audio length,69,Info,24,8dc05dce-b707-4d1b-90d0-298769f339ff
+12,Wordcount,69,Info,24,8dc05dce-b707-4d1b-90d0-298769f339ff
+18,Content rating,69,Info,24,8dc05dce-b707-4d1b-90d0-298769f339ff
+6,Title,69,Info,24,8dc05dce-b707-4d1b-90d0-298769f339ff
+15,Tropes,70,Author Tags,24,8dc05dce-b707-4d1b-90d0-298769f339ff
+17,Additional tags,70,Author Tags,24,8dc05dce-b707-4d1b-90d0-298769f339ff
+13,Relationship type,70,Author Tags,24,8dc05dce-b707-4d1b-90d0-298769f339ff
+14,Warnings,70,Author Tags,24,8dc05dce-b707-4d1b-90d0-298769f339ff
+5,Summary,70,Author Tags,24,8dc05dce-b707-4d1b-90d0-298769f339ff
+2,Characters,71,Fandom Tags,24,8dc05dce-b707-4d1b-90d0-298769f339ff
+3,Pairing,71,Fandom Tags,24,8dc05dce-b707-4d1b-90d0-298769f339ff
+1,Fandom,72,Category,24,8dc05dce-b707-4d1b-90d0-298769f339ff
+8,Work type,72,Category,24,8dc05dce-b707-4d1b-90d0-298769f339ff
+16,Genre,72,Category,24,8dc05dce-b707-4d1b-90d0-298769f339ff
+9,Completion status,72,Category,24,8dc05dce-b707-4d1b-90d0-298769f339ff
+10,Language,72,Category,24,8dc05dce-b707-4d1b-90d0-298769f339ff
+4,Reviews,196,I do not care,25,843618e9-fb63-46fc-8b25-97da9cff0a78
+17,Additional tags,197,Refining,25,843618e9-fb63-46fc-8b25-97da9cff0a78
+11,Audio length,197,Refining,25,843618e9-fb63-46fc-8b25-97da9cff0a78
+15,Tropes,197,Refining,25,843618e9-fb63-46fc-8b25-97da9cff0a78
+16,Genre,197,Refining,25,843618e9-fb63-46fc-8b25-97da9cff0a78
+13,Relationship type,197,Refining,25,843618e9-fb63-46fc-8b25-97da9cff0a78
+14,Warnings,197,Refining,25,843618e9-fb63-46fc-8b25-97da9cff0a78
+12,Wordcount,197,Refining,25,843618e9-fb63-46fc-8b25-97da9cff0a78
+7,Author,198,Work IDs,25,843618e9-fb63-46fc-8b25-97da9cff0a78
+5,Summary,198,Work IDs,25,843618e9-fb63-46fc-8b25-97da9cff0a78
+6,Title,198,Work IDs,25,843618e9-fb63-46fc-8b25-97da9cff0a78
+10,Language,199,Browsing,25,843618e9-fb63-46fc-8b25-97da9cff0a78
+8,Work type,199,Browsing,25,843618e9-fb63-46fc-8b25-97da9cff0a78
+9,Completion status,199,Browsing,25,843618e9-fb63-46fc-8b25-97da9cff0a78
+18,Content rating,199,Browsing,25,843618e9-fb63-46fc-8b25-97da9cff0a78
+2,Characters,199,Browsing,25,843618e9-fb63-46fc-8b25-97da9cff0a78
+3,Pairing,199,Browsing,25,843618e9-fb63-46fc-8b25-97da9cff0a78
+1,Fandom,199,Browsing,25,843618e9-fb63-46fc-8b25-97da9cff0a78
+4,Reviews,128,Irrelevant,26,825c9729-afbe-4f56-bf8a-6d1f2b1cd067
+7,Author,128,Irrelevant,26,825c9729-afbe-4f56-bf8a-6d1f2b1cd067
+6,Title,128,Irrelevant,26,825c9729-afbe-4f56-bf8a-6d1f2b1cd067
+5,Summary,128,Irrelevant,26,825c9729-afbe-4f56-bf8a-6d1f2b1cd067
+15,Tropes,128,Irrelevant,26,825c9729-afbe-4f56-bf8a-6d1f2b1cd067
+16,Genre,128,Irrelevant,26,825c9729-afbe-4f56-bf8a-6d1f2b1cd067
+17,Additional tags,128,Irrelevant,26,825c9729-afbe-4f56-bf8a-6d1f2b1cd067
+11,Audio length,128,Irrelevant,26,825c9729-afbe-4f56-bf8a-6d1f2b1cd067
+12,Wordcount,129,Accessibility,26,825c9729-afbe-4f56-bf8a-6d1f2b1cd067
+9,Completion status,129,Accessibility,26,825c9729-afbe-4f56-bf8a-6d1f2b1cd067
+10,Language,129,Accessibility,26,825c9729-afbe-4f56-bf8a-6d1f2b1cd067
+14,Warnings,129,Accessibility,26,825c9729-afbe-4f56-bf8a-6d1f2b1cd067
+8,Work type,130,Interest,26,825c9729-afbe-4f56-bf8a-6d1f2b1cd067
+18,Content rating,130,Interest,26,825c9729-afbe-4f56-bf8a-6d1f2b1cd067
+3,Pairing,130,Interest,26,825c9729-afbe-4f56-bf8a-6d1f2b1cd067
+13,Relationship type,130,Interest,26,825c9729-afbe-4f56-bf8a-6d1f2b1cd067
+2,Characters,130,Interest,26,825c9729-afbe-4f56-bf8a-6d1f2b1cd067
+1,Fandom,130,Interest,26,825c9729-afbe-4f56-bf8a-6d1f2b1cd067
+8,Work type,15,?,27,81291f18-403c-4448-ae5f-81c8911e9943
+11,Audio length,15,?,27,81291f18-403c-4448-ae5f-81c8911e9943
+4,Reviews,15,?,27,81291f18-403c-4448-ae5f-81c8911e9943
+9,Completion status,16,Basic Information,27,81291f18-403c-4448-ae5f-81c8911e9943
+10,Language,16,Basic Information,27,81291f18-403c-4448-ae5f-81c8911e9943
+12,Wordcount,16,Basic Information,27,81291f18-403c-4448-ae5f-81c8911e9943
+16,Genre,16,Basic Information,27,81291f18-403c-4448-ae5f-81c8911e9943
+18,Content rating,16,Basic Information,27,81291f18-403c-4448-ae5f-81c8911e9943
+1,Fandom,16,Basic Information,27,81291f18-403c-4448-ae5f-81c8911e9943
+5,Summary,16,Basic Information,27,81291f18-403c-4448-ae5f-81c8911e9943
+6,Title,16,Basic Information,27,81291f18-403c-4448-ae5f-81c8911e9943
+7,Author,17,Authorship,27,81291f18-403c-4448-ae5f-81c8911e9943
+13,Relationship type,18,Characters / Actors,27,81291f18-403c-4448-ae5f-81c8911e9943
+3,Pairing,18,Characters / Actors,27,81291f18-403c-4448-ae5f-81c8911e9943
+2,Characters,18,Characters / Actors,27,81291f18-403c-4448-ae5f-81c8911e9943
+17,Additional tags,19,Content,27,81291f18-403c-4448-ae5f-81c8911e9943
+14,Warnings,19,Content,27,81291f18-403c-4448-ae5f-81c8911e9943
+15,Tropes,19,Content,27,81291f18-403c-4448-ae5f-81c8911e9943
+15,Tropes,48,categories that I consider when deciding if I'm in the mood to read  something,28,708686c0-c700-49d7-a9c5-7b20ee794ece
+3,Pairing,48,categories that I consider when deciding if I'm in the mood to read  something,28,708686c0-c700-49d7-a9c5-7b20ee794ece
+17,Additional tags,48,categories that I consider when deciding if I'm in the mood to read  something,28,708686c0-c700-49d7-a9c5-7b20ee794ece
+9,Completion status,48,categories that I consider when deciding if I'm in the mood to read  something,28,708686c0-c700-49d7-a9c5-7b20ee794ece
+5,Summary,48,categories that I consider when deciding if I'm in the mood to read  something,28,708686c0-c700-49d7-a9c5-7b20ee794ece
+6,Title,48,categories that I consider when deciding if I'm in the mood to read  something,28,708686c0-c700-49d7-a9c5-7b20ee794ece
+2,Characters,48,categories that I consider when deciding if I'm in the mood to read  something,28,708686c0-c700-49d7-a9c5-7b20ee794ece
+7,Author,49,categories that limit what I will read,28,708686c0-c700-49d7-a9c5-7b20ee794ece
+1,Fandom,49,categories that limit what I will read,28,708686c0-c700-49d7-a9c5-7b20ee794ece
+10,Language,49,categories that limit what I will read,28,708686c0-c700-49d7-a9c5-7b20ee794ece
+13,Relationship type,50,categories that I ignore,28,708686c0-c700-49d7-a9c5-7b20ee794ece
+8,Work type,50,categories that I ignore,28,708686c0-c700-49d7-a9c5-7b20ee794ece
+4,Reviews,50,categories that I ignore,28,708686c0-c700-49d7-a9c5-7b20ee794ece
+16,Genre,50,categories that I ignore,28,708686c0-c700-49d7-a9c5-7b20ee794ece
+14,Warnings,50,categories that I ignore,28,708686c0-c700-49d7-a9c5-7b20ee794ece
+12,Wordcount,50,categories that I ignore,28,708686c0-c700-49d7-a9c5-7b20ee794ece
+18,Content rating,50,categories that I ignore,28,708686c0-c700-49d7-a9c5-7b20ee794ece
+11,Audio length,51,metadata for fanworks I don't consume,28,708686c0-c700-49d7-a9c5-7b20ee794ece
+10,Language,45,stats,29,6cb59dde-8b40-416b-b223-0fff5b6602c5
+4,Reviews,45,stats,29,6cb59dde-8b40-416b-b223-0fff5b6602c5
+9,Completion status,45,stats,29,6cb59dde-8b40-416b-b223-0fff5b6602c5
+11,Audio length,45,stats,29,6cb59dde-8b40-416b-b223-0fff5b6602c5
+12,Wordcount,45,stats,29,6cb59dde-8b40-416b-b223-0fff5b6602c5
+8,Work type,45,stats,29,6cb59dde-8b40-416b-b223-0fff5b6602c5
+3,Pairing,46,character data,29,6cb59dde-8b40-416b-b223-0fff5b6602c5
+13,Relationship type,46,character data,29,6cb59dde-8b40-416b-b223-0fff5b6602c5
+2,Characters,46,character data,29,6cb59dde-8b40-416b-b223-0fff5b6602c5
+17,Additional tags,47,story,29,6cb59dde-8b40-416b-b223-0fff5b6602c5
+15,Tropes,47,story,29,6cb59dde-8b40-416b-b223-0fff5b6602c5
+16,Genre,47,story,29,6cb59dde-8b40-416b-b223-0fff5b6602c5
+14,Warnings,47,story,29,6cb59dde-8b40-416b-b223-0fff5b6602c5
+1,Fandom,47,story,29,6cb59dde-8b40-416b-b223-0fff5b6602c5
+5,Summary,47,story,29,6cb59dde-8b40-416b-b223-0fff5b6602c5
+18,Content rating,47,story,29,6cb59dde-8b40-416b-b223-0fff5b6602c5
+7,Author,47,story,29,6cb59dde-8b40-416b-b223-0fff5b6602c5
+6,Title,47,story,29,6cb59dde-8b40-416b-b223-0fff5b6602c5
+4,Reviews,29,Community,30,69024c75-7462-4abd-8a04-1552b124d2da
+15,Tropes,30,Additional information,30,69024c75-7462-4abd-8a04-1552b124d2da
+17,Additional tags,30,Additional information,30,69024c75-7462-4abd-8a04-1552b124d2da
+14,Warnings,30,Additional information,30,69024c75-7462-4abd-8a04-1552b124d2da
+13,Relationship type,30,Additional information,30,69024c75-7462-4abd-8a04-1552b124d2da
+5,Summary,30,Additional information,30,69024c75-7462-4abd-8a04-1552b124d2da
+16,Genre,30,Additional information,30,69024c75-7462-4abd-8a04-1552b124d2da
+6,Title,31,Metadata,30,69024c75-7462-4abd-8a04-1552b124d2da
+3,Pairing,31,Metadata,30,69024c75-7462-4abd-8a04-1552b124d2da
+9,Completion status,31,Metadata,30,69024c75-7462-4abd-8a04-1552b124d2da
+12,Wordcount,31,Metadata,30,69024c75-7462-4abd-8a04-1552b124d2da
+7,Author,31,Metadata,30,69024c75-7462-4abd-8a04-1552b124d2da
+2,Characters,31,Metadata,30,69024c75-7462-4abd-8a04-1552b124d2da
+8,Work type,31,Metadata,30,69024c75-7462-4abd-8a04-1552b124d2da
+1,Fandom,31,Metadata,30,69024c75-7462-4abd-8a04-1552b124d2da
+10,Language,31,Metadata,30,69024c75-7462-4abd-8a04-1552b124d2da
+11,Audio length,31,Metadata,30,69024c75-7462-4abd-8a04-1552b124d2da
+18,Content rating,31,Metadata,30,69024c75-7462-4abd-8a04-1552b124d2da
+16,Genre,20,Optional,31,641e617e-1c73-43b4-8fee-c344316610bd
+4,Reviews,20,Optional,31,641e617e-1c73-43b4-8fee-c344316610bd
+17,Additional tags,20,Optional,31,641e617e-1c73-43b4-8fee-c344316610bd
+15,Tropes,20,Optional,31,641e617e-1c73-43b4-8fee-c344316610bd
+3,Pairing,20,Optional,31,641e617e-1c73-43b4-8fee-c344316610bd
+13,Relationship type,20,Optional,31,641e617e-1c73-43b4-8fee-c344316610bd
+11,Audio length,20,Optional,31,641e617e-1c73-43b4-8fee-c344316610bd
+6,Title,21,Required,31,641e617e-1c73-43b4-8fee-c344316610bd
+14,Warnings,21,Required,31,641e617e-1c73-43b4-8fee-c344316610bd
+2,Characters,21,Required,31,641e617e-1c73-43b4-8fee-c344316610bd
+9,Completion status,21,Required,31,641e617e-1c73-43b4-8fee-c344316610bd
+5,Summary,21,Required,31,641e617e-1c73-43b4-8fee-c344316610bd
+8,Work type,21,Required,31,641e617e-1c73-43b4-8fee-c344316610bd
+1,Fandom,21,Required,31,641e617e-1c73-43b4-8fee-c344316610bd
+12,Wordcount,21,Required,31,641e617e-1c73-43b4-8fee-c344316610bd
+7,Author,21,Required,31,641e617e-1c73-43b4-8fee-c344316610bd
+10,Language,21,Required,31,641e617e-1c73-43b4-8fee-c344316610bd
+18,Content rating,21,Required,31,641e617e-1c73-43b4-8fee-c344316610bd
+4,Reviews,22,Not visible when searching,32,61b2a741-563f-4291-9318-23e11acfbd0a
+6,Title,23,Work-related only,32,61b2a741-563f-4291-9318-23e11acfbd0a
+7,Author,23,Work-related only,32,61b2a741-563f-4291-9318-23e11acfbd0a
+15,Tropes,24,"On fandom-search level, less important",32,61b2a741-563f-4291-9318-23e11acfbd0a
+5,Summary,24,"On fandom-search level, less important",32,61b2a741-563f-4291-9318-23e11acfbd0a
+12,Wordcount,24,"On fandom-search level, less important",32,61b2a741-563f-4291-9318-23e11acfbd0a
+17,Additional tags,24,"On fandom-search level, less important",32,61b2a741-563f-4291-9318-23e11acfbd0a
+16,Genre,25,Unneeded,32,61b2a741-563f-4291-9318-23e11acfbd0a
+10,Language,26,Over-arching,32,61b2a741-563f-4291-9318-23e11acfbd0a
+1,Fandom,26,Over-arching,32,61b2a741-563f-4291-9318-23e11acfbd0a
+8,Work type,26,Over-arching,32,61b2a741-563f-4291-9318-23e11acfbd0a
+18,Content rating,27,"On fandom-search level, most important",32,61b2a741-563f-4291-9318-23e11acfbd0a
+13,Relationship type,27,"On fandom-search level, most important",32,61b2a741-563f-4291-9318-23e11acfbd0a
+3,Pairing,27,"On fandom-search level, most important",32,61b2a741-563f-4291-9318-23e11acfbd0a
+2,Characters,27,"On fandom-search level, most important",32,61b2a741-563f-4291-9318-23e11acfbd0a
+14,Warnings,27,"On fandom-search level, most important",32,61b2a741-563f-4291-9318-23e11acfbd0a
+9,Completion status,27,"On fandom-search level, most important",32,61b2a741-563f-4291-9318-23e11acfbd0a
+11,Audio length,28,Audio-only,32,61b2a741-563f-4291-9318-23e11acfbd0a
+18,Content rating,32,Indifferent/Ignored,33,615dde2c-6fab-45b3-8e57-bd8fca30df75
+13,Relationship type,32,Indifferent/Ignored,33,615dde2c-6fab-45b3-8e57-bd8fca30df75
+15,Tropes,32,Indifferent/Ignored,33,615dde2c-6fab-45b3-8e57-bd8fca30df75
+16,Genre,32,Indifferent/Ignored,33,615dde2c-6fab-45b3-8e57-bd8fca30df75
+4,Reviews,32,Indifferent/Ignored,33,615dde2c-6fab-45b3-8e57-bd8fca30df75
+9,Completion status,32,Indifferent/Ignored,33,615dde2c-6fab-45b3-8e57-bd8fca30df75
+14,Warnings,33,Secondary/Complimentary/Context-Dependent,33,615dde2c-6fab-45b3-8e57-bd8fca30df75
+17,Additional tags,33,Secondary/Complimentary/Context-Dependent,33,615dde2c-6fab-45b3-8e57-bd8fca30df75
+11,Audio length,33,Secondary/Complimentary/Context-Dependent,33,615dde2c-6fab-45b3-8e57-bd8fca30df75
+12,Wordcount,33,Secondary/Complimentary/Context-Dependent,33,615dde2c-6fab-45b3-8e57-bd8fca30df75
+8,Work type,33,Secondary/Complimentary/Context-Dependent,33,615dde2c-6fab-45b3-8e57-bd8fca30df75
+10,Language,33,Secondary/Complimentary/Context-Dependent,33,615dde2c-6fab-45b3-8e57-bd8fca30df75
+2,Characters,33,Secondary/Complimentary/Context-Dependent,33,615dde2c-6fab-45b3-8e57-bd8fca30df75
+1,Fandom,33,Secondary/Complimentary/Context-Dependent,33,615dde2c-6fab-45b3-8e57-bd8fca30df75
+3,Pairing,34,Generally Expected,33,615dde2c-6fab-45b3-8e57-bd8fca30df75
+5,Summary,34,Generally Expected,33,615dde2c-6fab-45b3-8e57-bd8fca30df75
+7,Author,34,Generally Expected,33,615dde2c-6fab-45b3-8e57-bd8fca30df75
+6,Title,34,Generally Expected,33,615dde2c-6fab-45b3-8e57-bd8fca30df75
+5,Summary,106,Sorting,34,5f3e639a-c1f3-41c1-94b7-d046fe48c4dc
+10,Language,106,Sorting,34,5f3e639a-c1f3-41c1-94b7-d046fe48c4dc
+7,Author,106,Sorting,34,5f3e639a-c1f3-41c1-94b7-d046fe48c4dc
+6,Title,106,Sorting,34,5f3e639a-c1f3-41c1-94b7-d046fe48c4dc
+17,Additional tags,106,Sorting,34,5f3e639a-c1f3-41c1-94b7-d046fe48c4dc
+1,Fandom,106,Sorting,34,5f3e639a-c1f3-41c1-94b7-d046fe48c4dc
+4,Reviews,107,Meta,34,5f3e639a-c1f3-41c1-94b7-d046fe48c4dc
+8,Work type,107,Meta,34,5f3e639a-c1f3-41c1-94b7-d046fe48c4dc
+15,Tropes,107,Meta,34,5f3e639a-c1f3-41c1-94b7-d046fe48c4dc
+18,Content rating,107,Meta,34,5f3e639a-c1f3-41c1-94b7-d046fe48c4dc
+12,Wordcount,107,Meta,34,5f3e639a-c1f3-41c1-94b7-d046fe48c4dc
+14,Warnings,107,Meta,34,5f3e639a-c1f3-41c1-94b7-d046fe48c4dc
+16,Genre,107,Meta,34,5f3e639a-c1f3-41c1-94b7-d046fe48c4dc
+9,Completion status,107,Meta,34,5f3e639a-c1f3-41c1-94b7-d046fe48c4dc
+11,Audio length,107,Meta,34,5f3e639a-c1f3-41c1-94b7-d046fe48c4dc
+2,Characters,108,Shipping,34,5f3e639a-c1f3-41c1-94b7-d046fe48c4dc
+13,Relationship type,108,Shipping,34,5f3e639a-c1f3-41c1-94b7-d046fe48c4dc
+3,Pairing,108,Shipping,34,5f3e639a-c1f3-41c1-94b7-d046fe48c4dc
+4,Reviews,183,Reviews,35,5ea6f4d1-84be-4af5-b6a6-ff305c908ba7
+5,Summary,184,Summary,35,5ea6f4d1-84be-4af5-b6a6-ff305c908ba7
+15,Tropes,185,Tags,35,5ea6f4d1-84be-4af5-b6a6-ff305c908ba7
+17,Additional tags,185,Tags,35,5ea6f4d1-84be-4af5-b6a6-ff305c908ba7
+3,Pairing,185,Tags,35,5ea6f4d1-84be-4af5-b6a6-ff305c908ba7
+13,Relationship type,185,Tags,35,5ea6f4d1-84be-4af5-b6a6-ff305c908ba7
+18,Content rating,185,Tags,35,5ea6f4d1-84be-4af5-b6a6-ff305c908ba7
+14,Warnings,185,Tags,35,5ea6f4d1-84be-4af5-b6a6-ff305c908ba7
+2,Characters,185,Tags,35,5ea6f4d1-84be-4af5-b6a6-ff305c908ba7
+8,Work type,186,Genre,35,5ea6f4d1-84be-4af5-b6a6-ff305c908ba7
+16,Genre,186,Genre,35,5ea6f4d1-84be-4af5-b6a6-ff305c908ba7
+9,Completion status,187,Length,35,5ea6f4d1-84be-4af5-b6a6-ff305c908ba7
+11,Audio length,187,Length,35,5ea6f4d1-84be-4af5-b6a6-ff305c908ba7
+12,Wordcount,187,Length,35,5ea6f4d1-84be-4af5-b6a6-ff305c908ba7
+1,Fandom,188,Indexical,35,5ea6f4d1-84be-4af5-b6a6-ff305c908ba7
+10,Language,188,Indexical,35,5ea6f4d1-84be-4af5-b6a6-ff305c908ba7
+7,Author,188,Indexical,35,5ea6f4d1-84be-4af5-b6a6-ff305c908ba7
+6,Title,188,Indexical,35,5ea6f4d1-84be-4af5-b6a6-ff305c908ba7
+5,Summary,90,Other,36,5be8e43e-9786-4870-835d-f4376bcc6dbb
+6,Title,90,Other,36,5be8e43e-9786-4870-835d-f4376bcc6dbb
+7,Author,90,Other,36,5be8e43e-9786-4870-835d-f4376bcc6dbb
+3,Pairing,91,Filter (+ or -),36,5be8e43e-9786-4870-835d-f4376bcc6dbb
+15,Tropes,91,Filter (+ or -),36,5be8e43e-9786-4870-835d-f4376bcc6dbb
+2,Characters,91,Filter (+ or -),36,5be8e43e-9786-4870-835d-f4376bcc6dbb
+13,Relationship type,91,Filter (+ or -),36,5be8e43e-9786-4870-835d-f4376bcc6dbb
+17,Additional tags,91,Filter (+ or -),36,5be8e43e-9786-4870-835d-f4376bcc6dbb
+14,Warnings,91,Filter (+ or -),36,5be8e43e-9786-4870-835d-f4376bcc6dbb
+8,Work type,91,Filter (+ or -),36,5be8e43e-9786-4870-835d-f4376bcc6dbb
+16,Genre,91,Filter (+ or -),36,5be8e43e-9786-4870-835d-f4376bcc6dbb
+18,Content rating,91,Filter (+ or -),36,5be8e43e-9786-4870-835d-f4376bcc6dbb
+9,Completion status,91,Filter (+ or -),36,5be8e43e-9786-4870-835d-f4376bcc6dbb
+10,Language,91,Filter (+ or -),36,5be8e43e-9786-4870-835d-f4376bcc6dbb
+1,Fandom,91,Filter (+ or -),36,5be8e43e-9786-4870-835d-f4376bcc6dbb
+12,Wordcount,92,Sort,36,5be8e43e-9786-4870-835d-f4376bcc6dbb
+4,Reviews,92,Sort,36,5be8e43e-9786-4870-835d-f4376bcc6dbb
+11,Audio length,93,Podfic,36,5be8e43e-9786-4870-835d-f4376bcc6dbb
+17,Additional tags,160,Tags,37,563641e4-2b93-486b-a48d-d16eb529bca2
+15,Tropes,160,Tags,37,563641e4-2b93-486b-a48d-d16eb529bca2
+2,Characters,160,Tags,37,563641e4-2b93-486b-a48d-d16eb529bca2
+6,Title,161,Fanwork,37,563641e4-2b93-486b-a48d-d16eb529bca2
+8,Work type,161,Fanwork,37,563641e4-2b93-486b-a48d-d16eb529bca2
+3,Pairing,161,Fanwork,37,563641e4-2b93-486b-a48d-d16eb529bca2
+5,Summary,161,Fanwork,37,563641e4-2b93-486b-a48d-d16eb529bca2
+13,Relationship type,161,Fanwork,37,563641e4-2b93-486b-a48d-d16eb529bca2
+4,Reviews,161,Fanwork,37,563641e4-2b93-486b-a48d-d16eb529bca2
+16,Genre,161,Fanwork,37,563641e4-2b93-486b-a48d-d16eb529bca2
+1,Fandom,161,Fanwork,37,563641e4-2b93-486b-a48d-d16eb529bca2
+10,Language,161,Fanwork,37,563641e4-2b93-486b-a48d-d16eb529bca2
+7,Author,161,Fanwork,37,563641e4-2b93-486b-a48d-d16eb529bca2
+18,Content rating,162,Audio,37,563641e4-2b93-486b-a48d-d16eb529bca2
+11,Audio length,162,Audio,37,563641e4-2b93-486b-a48d-d16eb529bca2
+9,Completion status,163,Fic,37,563641e4-2b93-486b-a48d-d16eb529bca2
+14,Warnings,163,Fic,37,563641e4-2b93-486b-a48d-d16eb529bca2
+12,Wordcount,163,Fic,37,563641e4-2b93-486b-a48d-d16eb529bca2
+11,Audio length,94,doesn't matter (I never listen to podfics or whatever they're called),38,4f843027-bfb2-4b56-9d6e-07ba00850054
+15,Tropes,95,Will look for/check out only in combination with other stuff I'm looking for,38,4f843027-bfb2-4b56-9d6e-07ba00850054
+16,Genre,95,Will look for/check out only in combination with other stuff I'm looking for,38,4f843027-bfb2-4b56-9d6e-07ba00850054
+3,Pairing,96,Will use to filter out stuff I want/don't want (what exactly depends on mood),38,4f843027-bfb2-4b56-9d6e-07ba00850054
+8,Work type,96,Will use to filter out stuff I want/don't want (what exactly depends on mood),38,4f843027-bfb2-4b56-9d6e-07ba00850054
+13,Relationship type,96,Will use to filter out stuff I want/don't want (what exactly depends on mood),38,4f843027-bfb2-4b56-9d6e-07ba00850054
+18,Content rating,96,Will use to filter out stuff I want/don't want (what exactly depends on mood),38,4f843027-bfb2-4b56-9d6e-07ba00850054
+12,Wordcount,97,Good information to have but rarely affects what I check out,38,4f843027-bfb2-4b56-9d6e-07ba00850054
+6,Title,97,Good information to have but rarely affects what I check out,38,4f843027-bfb2-4b56-9d6e-07ba00850054
+4,Reviews,97,Good information to have but rarely affects what I check out,38,4f843027-bfb2-4b56-9d6e-07ba00850054
+9,Completion status,97,Good information to have but rarely affects what I check out,38,4f843027-bfb2-4b56-9d6e-07ba00850054
+2,Characters,98,Will look for/check out specific ones I like,38,4f843027-bfb2-4b56-9d6e-07ba00850054
+1,Fandom,98,Will look for/check out specific ones I like,38,4f843027-bfb2-4b56-9d6e-07ba00850054
+7,Author,98,Will look for/check out specific ones I like,38,4f843027-bfb2-4b56-9d6e-07ba00850054
+14,Warnings,99,Will read if it interests me,38,4f843027-bfb2-4b56-9d6e-07ba00850054
+17,Additional tags,99,Will read if it interests me,38,4f843027-bfb2-4b56-9d6e-07ba00850054
+5,Summary,99,Will read if it interests me,38,4f843027-bfb2-4b56-9d6e-07ba00850054
+10,Language,100,Matters a lot (will not look at if it doesn't match my preference),38,4f843027-bfb2-4b56-9d6e-07ba00850054
+4,Reviews,112,level 3,39,452f61ad-2b3a-4b07-88c0-84a68c7d56f1
+14,Warnings,112,level 3,39,452f61ad-2b3a-4b07-88c0-84a68c7d56f1
+7,Author,112,level 3,39,452f61ad-2b3a-4b07-88c0-84a68c7d56f1
+5,Summary,112,level 3,39,452f61ad-2b3a-4b07-88c0-84a68c7d56f1
+6,Title,112,level 3,39,452f61ad-2b3a-4b07-88c0-84a68c7d56f1
+11,Audio length,112,level 3,39,452f61ad-2b3a-4b07-88c0-84a68c7d56f1
+17,Additional tags,113,level 2,39,452f61ad-2b3a-4b07-88c0-84a68c7d56f1
+12,Wordcount,113,level 2,39,452f61ad-2b3a-4b07-88c0-84a68c7d56f1
+15,Tropes,113,level 2,39,452f61ad-2b3a-4b07-88c0-84a68c7d56f1
+16,Genre,113,level 2,39,452f61ad-2b3a-4b07-88c0-84a68c7d56f1
+13,Relationship type,113,level 2,39,452f61ad-2b3a-4b07-88c0-84a68c7d56f1
+18,Content rating,114,level 1,39,452f61ad-2b3a-4b07-88c0-84a68c7d56f1
+8,Work type,114,level 1,39,452f61ad-2b3a-4b07-88c0-84a68c7d56f1
+2,Characters,114,level 1,39,452f61ad-2b3a-4b07-88c0-84a68c7d56f1
+3,Pairing,114,level 1,39,452f61ad-2b3a-4b07-88c0-84a68c7d56f1
+9,Completion status,114,level 1,39,452f61ad-2b3a-4b07-88c0-84a68c7d56f1
+10,Language,114,level 1,39,452f61ad-2b3a-4b07-88c0-84a68c7d56f1
+1,Fandom,114,level 1,39,452f61ad-2b3a-4b07-88c0-84a68c7d56f1
+6,Title,137,Top Level Info,40,3ad42d23-473f-4f47-92f6-4205dcda949f
+7,Author,137,Top Level Info,40,3ad42d23-473f-4f47-92f6-4205dcda949f
+1,Fandom,137,Top Level Info,40,3ad42d23-473f-4f47-92f6-4205dcda949f
+17,Additional tags,138,Story Themes info,40,3ad42d23-473f-4f47-92f6-4205dcda949f
+14,Warnings,138,Story Themes info,40,3ad42d23-473f-4f47-92f6-4205dcda949f
+18,Content rating,138,Story Themes info,40,3ad42d23-473f-4f47-92f6-4205dcda949f
+15,Tropes,138,Story Themes info,40,3ad42d23-473f-4f47-92f6-4205dcda949f
+16,Genre,138,Story Themes info,40,3ad42d23-473f-4f47-92f6-4205dcda949f
+5,Summary,138,Story Themes info,40,3ad42d23-473f-4f47-92f6-4205dcda949f
+13,Relationship type,139,Character themes info,40,3ad42d23-473f-4f47-92f6-4205dcda949f
+3,Pairing,139,Character themes info,40,3ad42d23-473f-4f47-92f6-4205dcda949f
+2,Characters,139,Character themes info,40,3ad42d23-473f-4f47-92f6-4205dcda949f
+9,Completion status,140,Quality control,40,3ad42d23-473f-4f47-92f6-4205dcda949f
+4,Reviews,140,Quality control,40,3ad42d23-473f-4f47-92f6-4205dcda949f
+10,Language,141,Technical info,40,3ad42d23-473f-4f47-92f6-4205dcda949f
+11,Audio length,141,Technical info,40,3ad42d23-473f-4f47-92f6-4205dcda949f
+12,Wordcount,141,Technical info,40,3ad42d23-473f-4f47-92f6-4205dcda949f
+8,Work type,141,Technical info,40,3ad42d23-473f-4f47-92f6-4205dcda949f
+4,Reviews,175,Is it good?,41,3317bde0-57f2-44c3-b5b5-389a50eacecf
+5,Summary,176,Supporting information (vibes),41,3317bde0-57f2-44c3-b5b5-389a50eacecf
+9,Completion status,176,Supporting information (vibes),41,3317bde0-57f2-44c3-b5b5-389a50eacecf
+2,Characters,176,Supporting information (vibes),41,3317bde0-57f2-44c3-b5b5-389a50eacecf
+3,Pairing,176,Supporting information (vibes),41,3317bde0-57f2-44c3-b5b5-389a50eacecf
+14,Warnings,176,Supporting information (vibes),41,3317bde0-57f2-44c3-b5b5-389a50eacecf
+13,Relationship type,176,Supporting information (vibes),41,3317bde0-57f2-44c3-b5b5-389a50eacecf
+11,Audio length,176,Supporting information (vibes),41,3317bde0-57f2-44c3-b5b5-389a50eacecf
+17,Additional tags,176,Supporting information (vibes),41,3317bde0-57f2-44c3-b5b5-389a50eacecf
+15,Tropes,176,Supporting information (vibes),41,3317bde0-57f2-44c3-b5b5-389a50eacecf
+1,Fandom,177,Vital statistics,41,3317bde0-57f2-44c3-b5b5-389a50eacecf
+8,Work type,177,Vital statistics,41,3317bde0-57f2-44c3-b5b5-389a50eacecf
+18,Content rating,177,Vital statistics,41,3317bde0-57f2-44c3-b5b5-389a50eacecf
+12,Wordcount,177,Vital statistics,41,3317bde0-57f2-44c3-b5b5-389a50eacecf
+16,Genre,177,Vital statistics,41,3317bde0-57f2-44c3-b5b5-389a50eacecf
+10,Language,177,Vital statistics,41,3317bde0-57f2-44c3-b5b5-389a50eacecf
+6,Title,177,Vital statistics,41,3317bde0-57f2-44c3-b5b5-389a50eacecf
+7,Author,177,Vital statistics,41,3317bde0-57f2-44c3-b5b5-389a50eacecf
+10,Language,35,Organisation/Search Data,42,318a9a15-162e-4ebc-a76a-79a45f66a1ff
+17,Additional tags,35,Organisation/Search Data,42,318a9a15-162e-4ebc-a76a-79a45f66a1ff
+2,Characters,35,Organisation/Search Data,42,318a9a15-162e-4ebc-a76a-79a45f66a1ff
+13,Relationship type,35,Organisation/Search Data,42,318a9a15-162e-4ebc-a76a-79a45f66a1ff
+3,Pairing,35,Organisation/Search Data,42,318a9a15-162e-4ebc-a76a-79a45f66a1ff
+18,Content rating,35,Organisation/Search Data,42,318a9a15-162e-4ebc-a76a-79a45f66a1ff
+9,Completion status,35,Organisation/Search Data,42,318a9a15-162e-4ebc-a76a-79a45f66a1ff
+8,Work type,35,Organisation/Search Data,42,318a9a15-162e-4ebc-a76a-79a45f66a1ff
+4,Reviews,36,Content Information,42,318a9a15-162e-4ebc-a76a-79a45f66a1ff
+16,Genre,36,Content Information,42,318a9a15-162e-4ebc-a76a-79a45f66a1ff
+1,Fandom,36,Content Information,42,318a9a15-162e-4ebc-a76a-79a45f66a1ff
+11,Audio length,36,Content Information,42,318a9a15-162e-4ebc-a76a-79a45f66a1ff
+12,Wordcount,36,Content Information,42,318a9a15-162e-4ebc-a76a-79a45f66a1ff
+14,Warnings,37,Art Description,42,318a9a15-162e-4ebc-a76a-79a45f66a1ff
+5,Summary,37,Art Description,42,318a9a15-162e-4ebc-a76a-79a45f66a1ff
+15,Tropes,37,Art Description,42,318a9a15-162e-4ebc-a76a-79a45f66a1ff
+7,Author,37,Art Description,42,318a9a15-162e-4ebc-a76a-79a45f66a1ff
+6,Title,37,Art Description,42,318a9a15-162e-4ebc-a76a-79a45f66a1ff
+4,Reviews,63,?,43,2d212196-91ef-48ba-b26a-74cebd19766c
+17,Additional tags,64,Tags,43,2d212196-91ef-48ba-b26a-74cebd19766c
+15,Tropes,64,Tags,43,2d212196-91ef-48ba-b26a-74cebd19766c
+3,Pairing,64,Tags,43,2d212196-91ef-48ba-b26a-74cebd19766c
+2,Characters,64,Tags,43,2d212196-91ef-48ba-b26a-74cebd19766c
+9,Completion status,65,Length,43,2d212196-91ef-48ba-b26a-74cebd19766c
+11,Audio length,65,Length,43,2d212196-91ef-48ba-b26a-74cebd19766c
+12,Wordcount,65,Length,43,2d212196-91ef-48ba-b26a-74cebd19766c
+5,Summary,66,Title,43,2d212196-91ef-48ba-b26a-74cebd19766c
+1,Fandom,66,Title,43,2d212196-91ef-48ba-b26a-74cebd19766c
+7,Author,66,Title,43,2d212196-91ef-48ba-b26a-74cebd19766c
+6,Title,66,Title,43,2d212196-91ef-48ba-b26a-74cebd19766c
+13,Relationship type,67,Top  level,43,2d212196-91ef-48ba-b26a-74cebd19766c
+16,Genre,67,Top  level,43,2d212196-91ef-48ba-b26a-74cebd19766c
+14,Warnings,67,Top  level,43,2d212196-91ef-48ba-b26a-74cebd19766c
+10,Language,67,Top  level,43,2d212196-91ef-48ba-b26a-74cebd19766c
+18,Content rating,67,Top  level,43,2d212196-91ef-48ba-b26a-74cebd19766c
+8,Work type,67,Top  level,43,2d212196-91ef-48ba-b26a-74cebd19766c
+11,Audio length,101,N/A,44,259b62ed-d7d4-4d4e-83fa-2549e65a0cfb
+7,Author,102,Managing Expectations,44,259b62ed-d7d4-4d4e-83fa-2549e65a0cfb
+4,Reviews,102,Managing Expectations,44,259b62ed-d7d4-4d4e-83fa-2549e65a0cfb
+5,Summary,103,What Do I Feel Like Today?,44,259b62ed-d7d4-4d4e-83fa-2549e65a0cfb
+6,Title,103,What Do I Feel Like Today?,44,259b62ed-d7d4-4d4e-83fa-2549e65a0cfb
+17,Additional tags,103,What Do I Feel Like Today?,44,259b62ed-d7d4-4d4e-83fa-2549e65a0cfb
+15,Tropes,103,What Do I Feel Like Today?,44,259b62ed-d7d4-4d4e-83fa-2549e65a0cfb
+13,Relationship type,103,What Do I Feel Like Today?,44,259b62ed-d7d4-4d4e-83fa-2549e65a0cfb
+16,Genre,103,What Do I Feel Like Today?,44,259b62ed-d7d4-4d4e-83fa-2549e65a0cfb
+12,Wordcount,103,What Do I Feel Like Today?,44,259b62ed-d7d4-4d4e-83fa-2549e65a0cfb
+18,Content rating,103,What Do I Feel Like Today?,44,259b62ed-d7d4-4d4e-83fa-2549e65a0cfb
+9,Completion status,104,Can/Will I Read It?,44,259b62ed-d7d4-4d4e-83fa-2549e65a0cfb
+14,Warnings,104,Can/Will I Read It?,44,259b62ed-d7d4-4d4e-83fa-2549e65a0cfb
+10,Language,104,Can/Will I Read It?,44,259b62ed-d7d4-4d4e-83fa-2549e65a0cfb
+8,Work type,104,Can/Will I Read It?,44,259b62ed-d7d4-4d4e-83fa-2549e65a0cfb
+2,Characters,105,How I'm Searching,44,259b62ed-d7d4-4d4e-83fa-2549e65a0cfb
+3,Pairing,105,How I'm Searching,44,259b62ed-d7d4-4d4e-83fa-2549e65a0cfb
+1,Fandom,105,How I'm Searching,44,259b62ed-d7d4-4d4e-83fa-2549e65a0cfb
+4,Reviews,189,social information,45,1ec616af-a1e3-4b48-81c0-ac539b123736
+9,Completion status,190,time commitment,45,1ec616af-a1e3-4b48-81c0-ac539b123736
+12,Wordcount,190,time commitment,45,1ec616af-a1e3-4b48-81c0-ac539b123736
+11,Audio length,190,time commitment,45,1ec616af-a1e3-4b48-81c0-ac539b123736
+8,Work type,190,time commitment,45,1ec616af-a1e3-4b48-81c0-ac539b123736
+10,Language,190,time commitment,45,1ec616af-a1e3-4b48-81c0-ac539b123736
+14,Warnings,191,fandom information,45,1ec616af-a1e3-4b48-81c0-ac539b123736
+18,Content rating,191,fandom information,45,1ec616af-a1e3-4b48-81c0-ac539b123736
+17,Additional tags,191,fandom information,45,1ec616af-a1e3-4b48-81c0-ac539b123736
+15,Tropes,191,fandom information,45,1ec616af-a1e3-4b48-81c0-ac539b123736
+16,Genre,191,fandom information,45,1ec616af-a1e3-4b48-81c0-ac539b123736
+3,Pairing,191,fandom information,45,1ec616af-a1e3-4b48-81c0-ac539b123736
+13,Relationship type,191,fandom information,45,1ec616af-a1e3-4b48-81c0-ac539b123736
+2,Characters,191,fandom information,45,1ec616af-a1e3-4b48-81c0-ac539b123736
+1,Fandom,191,fandom information,45,1ec616af-a1e3-4b48-81c0-ac539b123736
+5,Summary,192,work information,45,1ec616af-a1e3-4b48-81c0-ac539b123736
+7,Author,192,work information,45,1ec616af-a1e3-4b48-81c0-ac539b123736
+6,Title,192,work information,45,1ec616af-a1e3-4b48-81c0-ac539b123736
+14,Warnings,119,Safety,46,189cb221-56cf-4d4f-97e1-86fd4e232c42
+18,Content rating,119,Safety,46,189cb221-56cf-4d4f-97e1-86fd4e232c42
+10,Language,120,Technical,46,189cb221-56cf-4d4f-97e1-86fd4e232c42
+9,Completion status,120,Technical,46,189cb221-56cf-4d4f-97e1-86fd4e232c42
+11,Audio length,120,Technical,46,189cb221-56cf-4d4f-97e1-86fd4e232c42
+12,Wordcount,120,Technical,46,189cb221-56cf-4d4f-97e1-86fd4e232c42
+8,Work type,120,Technical,46,189cb221-56cf-4d4f-97e1-86fd4e232c42
+4,Reviews,121,Reviews,46,189cb221-56cf-4d4f-97e1-86fd4e232c42
+7,Author,122,Core info,46,189cb221-56cf-4d4f-97e1-86fd4e232c42
+5,Summary,122,Core info,46,189cb221-56cf-4d4f-97e1-86fd4e232c42
+16,Genre,122,Core info,46,189cb221-56cf-4d4f-97e1-86fd4e232c42
+1,Fandom,122,Core info,46,189cb221-56cf-4d4f-97e1-86fd4e232c42
+6,Title,122,Core info,46,189cb221-56cf-4d4f-97e1-86fd4e232c42
+17,Additional tags,123,Content,46,189cb221-56cf-4d4f-97e1-86fd4e232c42
+15,Tropes,123,Content,46,189cb221-56cf-4d4f-97e1-86fd4e232c42
+2,Characters,123,Content,46,189cb221-56cf-4d4f-97e1-86fd4e232c42
+13,Relationship type,123,Content,46,189cb221-56cf-4d4f-97e1-86fd4e232c42
+3,Pairing,123,Content,46,189cb221-56cf-4d4f-97e1-86fd4e232c42
+13,Relationship type,76,not useful for me as a sorting category,47,174fc6ea-5e9a-48b6-8108-3083dd9ab444
+4,Reviews,77,nice for personality and community but not key,47,174fc6ea-5e9a-48b6-8108-3083dd9ab444
+17,Additional tags,77,nice for personality and community but not key,47,174fc6ea-5e9a-48b6-8108-3083dd9ab444
+9,Completion status,78,do i want to read it,47,174fc6ea-5e9a-48b6-8108-3083dd9ab444
+18,Content rating,78,do i want to read it,47,174fc6ea-5e9a-48b6-8108-3083dd9ab444
+14,Warnings,78,do i want to read it,47,174fc6ea-5e9a-48b6-8108-3083dd9ab444
+15,Tropes,79,jacket flap,47,174fc6ea-5e9a-48b6-8108-3083dd9ab444
+5,Summary,79,jacket flap,47,174fc6ea-5e9a-48b6-8108-3083dd9ab444
+6,Title,79,jacket flap,47,174fc6ea-5e9a-48b6-8108-3083dd9ab444
+16,Genre,79,jacket flap,47,174fc6ea-5e9a-48b6-8108-3083dd9ab444
+3,Pairing,79,jacket flap,47,174fc6ea-5e9a-48b6-8108-3083dd9ab444
+2,Characters,79,jacket flap,47,174fc6ea-5e9a-48b6-8108-3083dd9ab444
+7,Author,79,jacket flap,47,174fc6ea-5e9a-48b6-8108-3083dd9ab444
+1,Fandom,79,jacket flap,47,174fc6ea-5e9a-48b6-8108-3083dd9ab444
+11,Audio length,80,what is it,47,174fc6ea-5e9a-48b6-8108-3083dd9ab444
+12,Wordcount,80,what is it,47,174fc6ea-5e9a-48b6-8108-3083dd9ab444
+10,Language,80,what is it,47,174fc6ea-5e9a-48b6-8108-3083dd9ab444
+8,Work type,80,what is it,47,174fc6ea-5e9a-48b6-8108-3083dd9ab444
+4,Reviews,84,Reader Interaction,48,121c4492-3a14-4240-9964-33cbf68c164a
+15,Tropes,85,What The Story Is About/Tags,48,121c4492-3a14-4240-9964-33cbf68c164a
+17,Additional tags,85,What The Story Is About/Tags,48,121c4492-3a14-4240-9964-33cbf68c164a
+5,Summary,85,What The Story Is About/Tags,48,121c4492-3a14-4240-9964-33cbf68c164a
+2,Characters,86,Characters,48,121c4492-3a14-4240-9964-33cbf68c164a
+13,Relationship type,86,Characters,48,121c4492-3a14-4240-9964-33cbf68c164a
+3,Pairing,86,Characters,48,121c4492-3a14-4240-9964-33cbf68c164a
+11,Audio length,87,Length,48,121c4492-3a14-4240-9964-33cbf68c164a
+12,Wordcount,87,Length,48,121c4492-3a14-4240-9964-33cbf68c164a
+10,Language,88,Basic Info,48,121c4492-3a14-4240-9964-33cbf68c164a
+9,Completion status,88,Basic Info,48,121c4492-3a14-4240-9964-33cbf68c164a
+8,Work type,88,Basic Info,48,121c4492-3a14-4240-9964-33cbf68c164a
+1,Fandom,88,Basic Info,48,121c4492-3a14-4240-9964-33cbf68c164a
+7,Author,88,Basic Info,48,121c4492-3a14-4240-9964-33cbf68c164a
+6,Title,88,Basic Info,48,121c4492-3a14-4240-9964-33cbf68c164a
+14,Warnings,89,Mood of Story,48,121c4492-3a14-4240-9964-33cbf68c164a
+18,Content rating,89,Mood of Story,48,121c4492-3a14-4240-9964-33cbf68c164a
+16,Genre,89,Mood of Story,48,121c4492-3a14-4240-9964-33cbf68c164a
+1,Fandom,1,fandom tags,49,10717771-3e8f-40f8-866e-9738ad0f6948
+2,Characters,1,fandom tags,49,10717771-3e8f-40f8-866e-9738ad0f6948
+3,Pairing,1,fandom tags,49,10717771-3e8f-40f8-866e-9738ad0f6948
+4,Reviews,2,feedback,49,10717771-3e8f-40f8-866e-9738ad0f6948
+5,Summary,3,"""book cover"" information",49,10717771-3e8f-40f8-866e-9738ad0f6948
+6,Title,3,"""book cover"" information",49,10717771-3e8f-40f8-866e-9738ad0f6948
+7,Author,3,"""book cover"" information",49,10717771-3e8f-40f8-866e-9738ad0f6948
+8,Work type,4,Work type,49,10717771-3e8f-40f8-866e-9738ad0f6948
+9,Completion status,4,Work type,49,10717771-3e8f-40f8-866e-9738ad0f6948
+10,Language,4,Work type,49,10717771-3e8f-40f8-866e-9738ad0f6948
+11,Audio length,4,Work type,49,10717771-3e8f-40f8-866e-9738ad0f6948
+12,Wordcount,4,Work type,49,10717771-3e8f-40f8-866e-9738ad0f6948
+13,Relationship type,5,content tags,49,10717771-3e8f-40f8-866e-9738ad0f6948
+14,Warnings,5,content tags,49,10717771-3e8f-40f8-866e-9738ad0f6948
+15,Tropes,5,content tags,49,10717771-3e8f-40f8-866e-9738ad0f6948
+16,Genre,5,content tags,49,10717771-3e8f-40f8-866e-9738ad0f6948
+17,Additional tags,5,content tags,49,10717771-3e8f-40f8-866e-9738ad0f6948
+18,Content rating,5,content tags,49,10717771-3e8f-40f8-866e-9738ad0f6948
+13,Relationship type,81,Content Info General,50,06163ebe-5f8d-4da9-bb33-2a4d7521363b
+18,Content rating,81,Content Info General,50,06163ebe-5f8d-4da9-bb33-2a4d7521363b
+16,Genre,81,Content Info General,50,06163ebe-5f8d-4da9-bb33-2a4d7521363b
+1,Fandom,81,Content Info General,50,06163ebe-5f8d-4da9-bb33-2a4d7521363b
+6,Title,82,Content Info Specific,50,06163ebe-5f8d-4da9-bb33-2a4d7521363b
+5,Summary,82,Content Info Specific,50,06163ebe-5f8d-4da9-bb33-2a4d7521363b
+15,Tropes,82,Content Info Specific,50,06163ebe-5f8d-4da9-bb33-2a4d7521363b
+17,Additional tags,82,Content Info Specific,50,06163ebe-5f8d-4da9-bb33-2a4d7521363b
+14,Warnings,82,Content Info Specific,50,06163ebe-5f8d-4da9-bb33-2a4d7521363b
+2,Characters,82,Content Info Specific,50,06163ebe-5f8d-4da9-bb33-2a4d7521363b
+3,Pairing,82,Content Info Specific,50,06163ebe-5f8d-4da9-bb33-2a4d7521363b
+7,Author,83,Work Characteristics,50,06163ebe-5f8d-4da9-bb33-2a4d7521363b
+4,Reviews,83,Work Characteristics,50,06163ebe-5f8d-4da9-bb33-2a4d7521363b
+11,Audio length,83,Work Characteristics,50,06163ebe-5f8d-4da9-bb33-2a4d7521363b
+8,Work type,83,Work Characteristics,50,06163ebe-5f8d-4da9-bb33-2a4d7521363b
+12,Wordcount,83,Work Characteristics,50,06163ebe-5f8d-4da9-bb33-2a4d7521363b
+10,Language,83,Work Characteristics,50,06163ebe-5f8d-4da9-bb33-2a4d7521363b
+9,Completion status,83,Work Characteristics,50,06163ebe-5f8d-4da9-bb33-2a4d7521363b
+5,Summary,166,summary,51,01931305-52fe-4b87-8c16-a5892450727c
+14,Warnings,167,something between inherent and tags,51,01931305-52fe-4b87-8c16-a5892450727c
+10,Language,167,something between inherent and tags,51,01931305-52fe-4b87-8c16-a5892450727c
+18,Content rating,167,something between inherent and tags,51,01931305-52fe-4b87-8c16-a5892450727c
+16,Genre,167,something between inherent and tags,51,01931305-52fe-4b87-8c16-a5892450727c
+4,Reviews,168,things that get added,51,01931305-52fe-4b87-8c16-a5892450727c
+7,Author,169,inherent work data,51,01931305-52fe-4b87-8c16-a5892450727c
+9,Completion status,169,inherent work data,51,01931305-52fe-4b87-8c16-a5892450727c
+6,Title,169,inherent work data,51,01931305-52fe-4b87-8c16-a5892450727c
+8,Work type,169,inherent work data,51,01931305-52fe-4b87-8c16-a5892450727c
+12,Wordcount,169,inherent work data,51,01931305-52fe-4b87-8c16-a5892450727c
+11,Audio length,169,inherent work data,51,01931305-52fe-4b87-8c16-a5892450727c
+3,Pairing,170,tags,51,01931305-52fe-4b87-8c16-a5892450727c
+17,Additional tags,170,tags,51,01931305-52fe-4b87-8c16-a5892450727c
+1,Fandom,170,tags,51,01931305-52fe-4b87-8c16-a5892450727c
+15,Tropes,170,tags,51,01931305-52fe-4b87-8c16-a5892450727c
+2,Characters,170,tags,51,01931305-52fe-4b87-8c16-a5892450727c
+13,Relationship type,170,tags,51,01931305-52fe-4b87-8c16-a5892450727c
